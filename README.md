@@ -1,0 +1,1 @@
+# Wind-Turbine-Damage-Recognition-Model
